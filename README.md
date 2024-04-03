@@ -15,10 +15,8 @@
 	<div class = "button"> 
 		<button onclick="location.href='Fatima.html'">Home</button>
 		<button onclick="location.href='about_me.html'">About Me</button>
-		<button>Contact</button>
 	</div>
 
-	</header>
 <paragraph> </paragraph>
 
 </body>
