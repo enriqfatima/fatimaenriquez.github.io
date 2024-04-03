@@ -8,7 +8,6 @@
 <head>
 <body>
 	<header>
-	<center>
 		<h1 class = "Main Header">Fatima Enriquez Website</h1>
 	<img src = "hello.gif" >
 	<!https://www.youtube.com/watch?v=iUC9Em3Sylw
@@ -19,7 +18,6 @@
 		<button>Contact</button>
 	</div>
 
-	</center> 
 	</header>
 <paragraph> </paragraph>
 
