@@ -10,6 +10,6 @@
 	<div class = "button"> 
 		<button onclick="location.href='Fatima.html'">Home</button>
 		<button onclick="location.href='about_me.html'">About Me</button>
-		<button onclick="location.href='contact.html'">Contact</button>
+		<button onclick="location.href='Contact.html'">Contact</button>
 
 	</div>
