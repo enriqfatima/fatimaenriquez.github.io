@@ -5,7 +5,7 @@
 <head>
 <body>
 	<header>
-		<h1 class = "Main Header">Fatima Enriquez Website</h1>
+		<h1 class = "Main Header">Fatima Enriquez</h1>
 	<img src = "hello.gif" >
 	<div class = "button"> 
 		<button onclick="location.href='Fatima.html'">Home</button>
